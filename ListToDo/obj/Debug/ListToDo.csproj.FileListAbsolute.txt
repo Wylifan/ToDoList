@@ -1,0 +1,7 @@
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\obj\Debug\ListToDo.csprojAssemblyReference.cache
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\obj\Debug\ListToDo.csproj.CoreCompileInputs.cache
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\bin\Debug\ListToDo.exe.config
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\bin\Debug\ListToDo.exe
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\bin\Debug\ListToDo.pdb
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\obj\Debug\ListToDo.exe
+C:\Users\Sulik\source\repos\ListToDo\ListToDo\obj\Debug\ListToDo.pdb
